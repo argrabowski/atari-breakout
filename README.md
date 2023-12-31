@@ -1,4 +1,4 @@
-# Deep Q-Network (DQN) for Atari Breakout
+# Reinforcement Learning for Atari Breakout
 
 This project implements Deep Q-Network (DQN) and other advanced architectures using PyTorch for training an Artificial Intelligence agent to play the classic Atari game Breakout. The agent uses Reinforcement Learning to learn and improve its performance in the game environment.
 
