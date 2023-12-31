@@ -22,7 +22,7 @@ This project implements Deep Q-Network (DQN) and other advanced architectures us
 
 ### 4. Agent Trainer
 
-- Main training loop for the DQN agent.
+- Main training loop for the RL agent.
 - Hyperparameters control the training process and can be adjusted for performance.
 - Periodic evaluation of the agent's performance and model saving.
 
