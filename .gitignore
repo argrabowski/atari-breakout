@@ -1,0 +1,8 @@
+/venv/Lib/site-packages/torch/
+/venv/Lib/site-packages/torch-2.1.0+cu118.dist-info/
+/venv/Lib/site-packages/torchaudio/
+/venv/Lib/site-packages/torchaudio-2.1.0+cu118.dist-info/
+/venv/Lib/site-packages/torchgen/
+/venv/Lib/site-packages/torchvision/
+/venv/Lib/site-packages/torchvision-0.16.0+cu118.dist-info/
+*/__pycache__/
